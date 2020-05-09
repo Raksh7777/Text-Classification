@@ -1,2 +1,2 @@
-# Text-Processing
-It uses deep learning to implement text processing with keras
+# Text-Classification
+It uses deep learning to implement text classification with keras
